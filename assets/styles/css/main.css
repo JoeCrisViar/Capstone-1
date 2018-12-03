@@ -1,0 +1,65 @@
+header{
+    text-align: center;
+    padding: 220px 0;
+    /* background: url(../../images/bg5.jpg) left top repeat; */
+    background: black;
+    color: whitesmoke;
+    list-style: none;
+    
+}
+.logo{
+    color: rgba(252,239,139,1);
+    border: 1px solid rgba(252,239,139,1);
+    height: 75px;
+    width: 75px;
+    padding-top: 12px;
+    padding-left: 12px; 
+    border-radius: 50%;
+    margin: 8px 0 8px 0;
+}
+
+.jumbotron{
+    color: black;
+}
+
+nav{
+    background: rgb(0, 0, 0);opacity:0.8;
+    
+}
+
+.nav-link {
+    color: whitesmoke;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    margin: 12px 27px;
+ }  
+ .nav-link:hover { 
+    color: black;
+    background-color: whitesmoke;
+    
+}
+
+.logo-link:link, .logo-link:hover{
+    color: rgba(252,239,139,1);
+    text-decoration: none;
+}
+
+a:link{
+    color: whitesmoke;
+}
+
+
+img {
+    display: block;
+    width: 800px;
+}
+
+.recent-image{
+    width: 100%;
+}
+
+.recent-post{
+    float: left;
+    margin-left: 10px;
+    width: 250px;
+}
